@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="virtual_robot-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/virtual_robot-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
